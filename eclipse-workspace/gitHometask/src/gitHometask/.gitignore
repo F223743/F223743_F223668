@@ -1,14 +1,14 @@
 # Ignore system and user-specific files
-Application Data
-Cookies
-Local Settings
-My Documents
-NetHood
-PrintHood
-Recent
-SendTo
-Start Menu
-Templates
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
 *.xml
 *.DAT
 *.LOG1
@@ -17,10 +17,11 @@ Templates
 *.hs
 
 # Ignore Eclipse and project metadata
-.metadata
+.metadata/
 .classpath
 .project
-.settings
-bin
-../../../../*
+.settings/
+bin/
 
+# Ignore everything from four levels up
+../../../../*
