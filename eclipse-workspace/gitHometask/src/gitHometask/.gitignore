@@ -1,0 +1,26 @@
+# Ignore system and user-specific files
+Application Data
+Cookies
+Local Settings
+My Documents
+NetHood
+PrintHood
+Recent
+SendTo
+Start Menu
+Templates
+*.xml
+*.DAT
+*.LOG1
+*.LOG2
+*.ini
+*.hs
+
+# Ignore Eclipse and project metadata
+.metadata
+.classpath
+.project
+.settings
+bin
+../../../../*
+
